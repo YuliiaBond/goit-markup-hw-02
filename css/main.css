@@ -1,0 +1,22 @@
+/*цвет основного текста #757575*/
+/*вторичный цвет текста #212121*/
+/*акцент #2196f3*/
+
+/*цвет фона #ffffff*/
+/*вторичный цвет фона  #2f303a*/
+
+/*Hero*/
+.hero {
+  background-color: var(--bg-color);
+}
+.hero-title,
+.hero-link {
+  color: var(--primary-bg-color);
+}
+.button {
+  background-color: var(--accent-color);
+}
+/*Section*/
+.section-title {
+  color: var(--title-text-color);
+}
